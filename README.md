@@ -17,7 +17,8 @@ This is a fun recreation of the original Pac-Man arcade game with custom gamepla
 - 🎮 Keyboard-controlled character movement
 
 ---
-#✨ Credits & Acknowledgements
+##✨ Credits & Acknowledgements
+
 This project is originally inspired by the awesome Pac-Man Java Game Tutorial by Ken Yip Coding on YouTube. I followed the base tutorial to learn how the game engine works in Java using JPanel, KeyListener, and Timer.
 
 After building the base version, I extended the project by adding several custom features on my own:
